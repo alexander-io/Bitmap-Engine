@@ -2,6 +2,8 @@
 ### [github.io](https://alexander-io.github.io/Bitmap-Engine/)
 Original code contribution by [aingerson](https://github.com/aingerson/Bitmap-Engine) as a research assistant under the direction of Professor D.Chiu.
 
+This repo was forked from [github.io](https://alexander-io.github.io/Bitmap-Engine/) on 10/11/2017.  The purpose of this fork is for Patrick Ryan and Ian White to finish implementing BBC compression and querying.
+
 ## Linux Install & Execution instructions
 ```bash
 # ensure Make, Java Developer Kit (JDK), and a C compiler are installed
@@ -68,3 +70,11 @@ When issuing $ make query_u, a segmentation fault seems to occur at this line. T
   Notes on Design and Implementation of Compressed Bit Vectors
   Authors : Kesheng Wu, Ekow J. Otoo, Arie Shoshani, Henrik Nordberg
   Date : September 27, 2001
+
+## BBC compression
+  Contributors: Patrick Ryan, Ian White
+### Files:
+#### BBCCompressor.```
+  
+
+```
